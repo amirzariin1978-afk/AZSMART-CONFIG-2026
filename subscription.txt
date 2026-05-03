@@ -1,1 +1,15 @@
-# AZ SMART MAIN SUBSCRIPTION
+vless://a331f068-bb4c-40b6-bdf5-e7c5855d1bf2@smart.clashroyalirani.ir:21427?type=tcp&security=none&encryption=none#AZ-SMART-01
+
+vless://2c9d4b11-7e6f-4c39-90ab-76fcb19e88a2@smart.clashroyalirani.ir:20831?type=ws&path=%2Fsmart&security=none&encryption=none#AZ-SMART-02
+
+vless://8d2fa9ce-41ab-48f9-93aa-992cb7741120@smart.clashroyalirani.ir:443?type=grpc&serviceName=azsmart&security=tls&encryption=none#AZ-SMART-03
+
+vless://74e66c91-ef55-4d10-8d31-6717e66d11a7@smart.clashroyalirani.ir:20952?type=tcp&security=none&encryption=none#AZ-SMART-04
+
+vless://3a9fc4e2-10d8-4707-a991-81be4477a6aa@smart.clashroyalirani.ir:20543?type=ws&path=%2Fmedia&security=none&encryption=none#AZ-SMART-MEDIA-05
+
+vless://5b6de3f7-9f8a-4d9a-91fa-2cb6f6b72131@smart.clashroyalirani.ir:21011?type=tcp&security=none&encryption=none#AZ-SMART-06
+
+vless://6f7a2d98-45a1-4e7d-bda3-113bcf2190aa@smart.clashroyalirani.ir:21191?type=grpc&serviceName=hero&security=tls&encryption=none#AZ-HERO-07
+
+vless://7ac98d12-b9aa-47b1-b821-23df118f7611@smart.clashroyalirani.ir:20666?type=ws&path=%2
