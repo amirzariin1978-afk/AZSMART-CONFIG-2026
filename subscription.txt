@@ -1,4 +1,5 @@
-vless://a331f068-bb4c-40b6-bdf5-e7c5855d1bf2@smart.clashroyalirani.ir:21427?type=tcp&security=none&encryption=none#AZ-SMART-01
+
+vless://0646c395-d59a-4351-9f6b-c2e1b12f17d3@smart.clashroyalirani.ir:21427?security=&encryption=none&host=www.wikipedia.org&headerType=http&type=tcp#AZ-SMART-01
 
 vless://2c9d4b11-7e6f-4c39-90ab-76fcb19e88a2@smart.clashroyalirani.ir:20831?type=ws&path=%2Fsmart&security=none&encryption=none#AZ-SMART-02
 
@@ -12,4 +13,6 @@ vless://5b6de3f7-9f8a-4d9a-91fa-2cb6f6b72131@smart.clashroyalirani.ir:21011?type
 
 vless://6f7a2d98-45a1-4e7d-bda3-113bcf2190aa@smart.clashroyalirani.ir:21191?type=grpc&serviceName=hero&security=tls&encryption=none#AZ-HERO-07
 
-vless://7ac98d12-b9aa-47b1-b821-23df118f7611@smart.clashroyalirani.ir:20666?type=ws&path=%2
+vless://a331f068-bb4c-40b6-bdf5-e7c5855d1bf2@smart.clashroyalirani.ir:21427?security=&encryption=none&host=www.microsoft.com&headerType=http&type=tcp#GLOBAL-SMART-08
+
+vless://0646c395-d59a-4351-9f6b-c2e1b12f17d3@smart.clashroyalirani.ir:21427?security=&encryption=none&host=www.filimo.com&headerType=http&type=tcp#ULTRA-SMART-TURBO-09
